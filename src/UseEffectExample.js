@@ -21,7 +21,7 @@ export default UseEffectExample;
 
 
 
-
+//creating a simple counter with increment decrement and reset//
 import {useState,useEffect } from "react";
 function UseEffectExample(){
 let [count,setcount]=useState(0)
